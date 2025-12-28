@@ -1,69 +1,65 @@
-<h1 align="center">✨ Hi, I'm Kunal Panchal ✨</h1>
-<h3 align="center">🚀 Software Enthusiast | Web Developer | DevOps Learner</h3>
+# 👋 Hi, I'm Kunal Panchal  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunalpanchal-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/kunalpanchal-dev?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/kunalpanchal-dev?label=Stars&style=flat" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=kunalpanchal&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/kunalpanchal?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/kunalpanchal?label=Stars&style=flat)
 
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kunalpanchal16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-panchal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalpanchal905@gmail.com)
+🎓 **B.Tech in Computer Science**  
+💻 **Software Enthusiast & Web Developer**  
+📍 **Indore, India**
 
 ---
 
-## 💻 Tech Stack:
+## 🚀 About Me  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+I am a Computer Science graduate with a strong interest in technology and software development. I enjoy building web applications, learning emerging technologies, and working on projects that solve real-world problems.
+
+🌱 **Currently learning:** Web Development, **DevOps fundamentals**, AI technologies & backend integration.
 
 ---
 
-## 📊 GitHub Stats:
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalpanchal-dev&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kunalpanchal-dev&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpanchal-dev&theme=tokyonight&layout=compact" />
-</p>
+### 💻 Languages & Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kunalpanchal-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kunalpanchal-dev&icon=0&color=0" />
-</p>
-
-<p align="center">
-  <b>🌱 Currently learning: DevOps, CI/CD pipelines & Cloud fundamentals</b>
-</p>
+### 🛠️ DevOps & Tools (Learning)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-⭐ *Proudly building the future with code.*  
-✨ *Created with passion by Kunal Panchal.*
+## 📈 Interests  
+
+- Web Application Development  
+- DevOps & Cloud Technologies  
+- Artificial Intelligence & Emerging Technologies  
+- Open-source Contribution  
+
+---
+
+## 🏆 Strengths  
+
+✔️ Quick learner  
+✔️ Problem solver  
+✔️ Team player  
+✔️ Passionate about continuous improvement  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-panchal)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kunalpanchal)  
+📧 **Email:** kunalpanchal255@gmail.com  
+
+---
+
+✨ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
