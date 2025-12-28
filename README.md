@@ -1,18 +1,64 @@
+# 👋 Hi, I'm Kunal Panchal  
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunalpanchal16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kunal Panchal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalpanchal905@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kunalpanchal-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kunalpanchal-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpanchal-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kunalpanchal-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 B.Tech in Computer Science  
+💻 Aspiring Business Development Associate & Software Enthusiast  
+📍 Indore, India  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kunalpanchal-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me  
+
+I am a Computer Science graduate with a strong interest in technology, business development, and digital solutions. I enjoy building web applications, learning emerging technologies, and working on projects that solve real-world problems.
+
+Currently, I am enhancing my skills in Web Development, AI technologies, and backend integration while also preparing for roles in business development and corporate environments.
+
+---
+
+## 🛠️ Technical Skills  
+
+- Web Technologies: HTML, CSS, JavaScript  
+- Frontend: React.js (Learning – component-based development)  
+- Backend Basics: REST APIs, Database concepts  
+- Tools & Platforms: Git, GitHub, VS Code  
+- Other Skills: MS Excel, Tally ERP, Basic Accounting Knowledge  
+
+---
+
+## 📈 Professional Interests  
+
+- Business Development & Client Engagement  
+- Product Strategy & Market Research  
+- Web Application Development  
+- Artificial Intelligence & Emerging Technologies  
+
+---
+
+## 📚 Learning & Development  
+
+- Web Development Fundamentals  
+- Introduction to Artificial Intelligence & Emerging Technologies  
+- Exploring React.js & Backend Integration  
+- Improving communication, presentation, and professional skills  
+
+---
+
+## 🏆 Strengths  
+
+- Quick learner and adaptable to new technologies  
+- Strong communication & teamwork abilities  
+- Problem-solving mindset  
+- Passion for continuous improvement  
+
+---
+
+## 📫 Connect With Me  
+
+- Email: kunalpanchal255@gmail.com  
+- LinkedIn: Add your LinkedIn link here  
+- GitHub: Add your GitHub profile link here  
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+
 
