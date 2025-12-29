@@ -1,0 +1,47 @@
+name: Daily Task Scheduler with Cache and Artifacts
+
+on:
+  schedule:
+    # Runs every day at 9:00 AM IST (03:30 UTC)
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-task:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Restore NPM Cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: npm-${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            npm-${{ runner.os }}-
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Scheduled Script
+        run: node scripts/dailyTask.js
+
+      - name: Save Task Output
+        run: |
+          mkdir -p output
+          echo "Task executed on $(date)" >> output/task-log.txt
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-task-report
+          path: output/task-log.txt
+          retention-days: 7
